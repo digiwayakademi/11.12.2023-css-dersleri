@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-header{
+    background-color: coral;
+    /* padding: 20px; */
+    margin-left: 50px;
+}
+
+.logo{
+    display: inline-block;
+    width: 70px;
+}
+
+.main-nav{
+    display: inline-block;
+    width: calc(100% - 75px);
+    text-align: right;
+}

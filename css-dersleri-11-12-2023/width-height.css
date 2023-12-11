@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+}
+
+.p1{
+    margin: 20px;
+    background-color: crimson;
+    color: #fff;
+    
+   
+    
+}
+
+.p2{
+    margin: 20px;
+    background-color: green;
+    color: #fff; 
+     
+}
+
+
+ /* İnline etiketlerde margin sağdan ve soldan uygulanır ancak yukardan ve aşağıdan uygulanmasına izin verilmez. */
+
+
+a{
+    text-decoration: none;
+    margin: 20px;
+    background-color: blue;
+    color: #fff;
+    padding: 10px;
+    
+
+}

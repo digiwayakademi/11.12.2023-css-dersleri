@@ -1,0 +1,14 @@
+                           
+p{
+    /* border: 5px solid #ff3300; */
+    background-color: white; 
+    font-weight: bold;
+
+    border-width: 5px;
+    border-style: solid;
+    border-color: #ff3300;
+
+    padding: 10px 0px 30px 40px;
+
+
+}
